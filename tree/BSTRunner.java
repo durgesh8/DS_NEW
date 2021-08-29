@@ -30,12 +30,12 @@ public class BSTRunner {
 		 * tree.inOrderTraversalRecursively(tree.root);
 		 */
 		 
-		System.out.println(tree.getCountOfleafNodes(tree.root));
+		/*System.out.println(tree.getCountOfleafNodes(tree.root));
 		tree.getCountOfleafNodes2(tree.root);
 		System.out.println(tree.count);
 		System.out.println(tree.getMinimumElementInBST(tree.root));
 		System.out.println(tree.isFullBinaryTree(tree.root));
-		System.out.println(tree.maxLevelSumInBinaryTree(tree.root));
+		System.out.println(tree.maxLevelSumInBinaryTree(tree.root));*/
 		
 	}
 }
